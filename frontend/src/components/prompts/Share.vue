@@ -151,8 +151,8 @@ export default {
   name: "share",
   data: function () {
     return {
-      time: 0,
-      unit: "hours",
+      time: 7,
+      unit: "days",
       links: [],
       clip: null,
       password: "",
